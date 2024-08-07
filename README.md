@@ -6,12 +6,12 @@ I'm a Medical Laboratory Science student who's currently transitioning to Tech. 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm an alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022, and I'm currently studying backend development at Atueyi Coding Academy (ACA).
-- 🌱 I’m currently learning JavaScript and Nodejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing jewelchidinma@gmail.com.
+- Pronouns: She/Her
+- Alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022, currently undergoing a backend development program at Atueyi Coding Academy (ACA).
+- Learning JavaScript and Nodejs.
+- Looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- Email me at jewelchidinma@gmail.com.
 
 ---
 
