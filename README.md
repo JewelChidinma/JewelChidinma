@@ -12,7 +12,7 @@ I'm passionate about sharing knowledge and solving medical problems through tech
 - Alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022, currently undergoing a backend development program at Atueyi Coding Academy (ACA).
 - Learning JavaScript and Nodejs.
 - Looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- Job interests: Software Engineer, Backend Engineer (Intern or Junior level), Technical writing.
+- Job interests: Software Developer, Backend Developer (Intern or Junior level), Technical writing.
 - Email me at jewelchidinma@gmail.com.
 
 ---
